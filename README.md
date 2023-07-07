@@ -6,9 +6,10 @@ After starting the app, the main window displays a glass of water. The user can 
 
 To set a daily goal for the amount of water you want to drink, you can go to the settings page. The app will display your progress towards that goal, allowing you to track how much water you have consumed throughout the day.
 
-In the future, I also plan to add a feature that will allow you to view a history of the amount of water you drank on previous days. This will help you monitor your overall water intake over time.
-
+In the future, I also plan to add a feature that will allow you to view a history of the amount of water you drank on previous days. This will help
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+I use **Local Storage** to save the recorded progress of drinking water and settings.
 
 ## Technologies
 
